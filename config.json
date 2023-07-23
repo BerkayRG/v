@@ -1,0 +1,101 @@
+{
+    "bot": {
+        "token": "MTEzMjYwNjgzMTQyOTE2MTA1MA.GWSyQf.BWqhq8cDhVknnTejUl6eRX5PcTOaYPaS2YyREM",
+        "owner": "987631989861523506",
+        "prefix": ".",
+        "BotStatus": "Vialand",
+        "BotFooter": "Vialand",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "1132595144135278652",
+            "log": "1132628481004535829",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "1132626013688443040",
+            "roles": "CEZALI ROLÜ ID",
+            "log": "1132628636369956955",
+            "limit": 5
+        },
+        "voicemute": {
+            "staff": "1132595149189435492",
+            "log": "1132628860001853440",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "1132595149189435492",
+            "roles": "SUSTURURULMUS ROLÜ ID",
+            "log": "1132628915534442546",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "1132626390999638036",
+            "log": "1132629068777541642"
+        },
+        "transport": {
+            "staff": "1132595149189435492   "
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "",
+        "rollog": "1132636981634019388",
+        "messagelog": "1132639131990765618",
+        "isimlog": "1132639241348857898",
+        "kayıtlog": "1132595285630144512",
+        "seslog": "1132639396278063197"
+    },
+    "roles": {
+		"booster": "BOOSTER ROL ID",
+        "vip": "1132594886886039632",
+        "sponsor": "1132594750143332444",
+        "müzisyen": "1132594755679821894",
+        "team": ""
+    },
+    "channels": {
+        "chat": "1132595495395676240",
+        "voicechannel": "1132625426225844324",
+        "welcomechannel": "1132595291514753135",
+        "rules": "1132595320153440296"
+    },
+    "registration": {
+        "unregistered": "1132594734293078118",
+        "man": ["1132594986899230730", "1132594971439009832"],
+        "woman": ["1132594981413081180", "1132594976702857358"],
+        "yetkilialim": "1132636599222550571",
+        "staff": "1132633791849050182",
+        "enaltyetkilirolü": "1132594593465122828",
+        "GuilDTag": "",
+        "GuilDTag2": "",
+        "GuilDTag3": "",
+        "GuilDTag4": "",
+        "TagSymbol": "•",
+        "autonickname": "İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "1132594829923188806",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "",
+        "onewoman": "",
+        "GuildDiscrim": "",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1078947289491583010",
+        "GuilDName": "V İ A L A N D",
+        "GuildOwnerRole": ["1132594414615806002"]
+    },
+    "emojis": {
+        "tada": "",
+        "yes": "",
+        "no": ""
+
+    }
+} 
